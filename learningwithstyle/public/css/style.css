@@ -1,0 +1,180 @@
+@import url("https://fonts.googleapis.com/css?family=Crafty+Girls|Kranky|Sue+Ellen+Francisco");
+
+body{
+    background-color: #f2f6c3 background-image: -webkit-gradient(linear, left top, left bottom, from(#f2f6c3), to(#eae49e));
+    background-image: -webkit-linear-gradient(top, #f2f6c3, #eae49e);
+    background-image: -moz-linear-gradient(top, #f2f6c3, #eae49e);
+    background-image: linear-gradient(to bottom, #f2f6c3, #eae49e);;
+    font-family: Sue Ellen Francisco;
+    border: 6pt solid slategray;
+    padding: 4pt;
+}
+nav h1{
+  width: 60%;
+  float: left;
+  background-color: #b8dbd3;
+  text-align: center;
+  font-size: 60pt;
+  font-family: Crafty Girls;
+  text-shadow: 2px 2px 8px #f7e7b4;
+  border-left: solid 8pt #96ead7;
+  margin-left: 1%;
+  margin-top: 8pt;
+  margin-bottom: 2pt;
+}
+
+header{
+    text-align: center;
+    margin-top: 1pt;
+}
+
+nav a{
+    font-size: 20pt;
+}
+nav ul{
+width: 8%;
+height: 20%;
+text-align: left;
+background-color: #b8dbd3;
+font-size: 10pt;
+display: block;
+float: right;
+list-style: none;
+line-height: 20pt;
+margin-right: 1%;
+ border-left: solid 8pt #96ead7;
+}
+
+
+.clearfix:after{
+     visibility: hidden;
+     display: block;
+     font-size: 0;
+     content: " ";
+     clear: both;
+     height: 0;
+     }
+*.clearfix { display: inline-block; }
+/* start commented backslash hack \*/
+* html .clearfix { height: 1%; }
+.clearfix { display: block; }
+/* close commented backslash hack */
+
+
+
+a{
+font-size: 30pt;
+margin-top: 0%;
+margin-bottom: 0%;
+text-decoration: none;
+}
+
+
+p{
+    font-size: 15pt;
+   line-height: 16pt
+}
+.card {
+  display: inline-block;
+  width: 18%;
+  background-color:#96ead7;
+  vertical-align:top;
+  border: solid 4pt;
+}
+
+.cookie-cards img {
+  width: 90%;
+
+}
+
+.cookie-cards {
+  text-align: center;
+  font-size: 10pt;
+}
+
+footer {
+  background-color: #b8dbd3;
+}
+footer ul {
+  margin: 0 auto;
+  width:50%;
+  text-align: center;
+display: inline;
+list-style-type: none
+}
+
+.content {
+  text-align: center;
+  font-size: 10pt;
+  height: 200pt;
+}
+
+.subject-card{
+ display: inline-block;
+  width: 21.7%;
+  background-color:#96ead7;
+  vertical-align:top;
+  border: solid 4pt;
+  text-align: center;
+}
+h3{
+font-size: 20pt;
+margin-top: 1pt;
+margin-bottom: 1pt;
+}
+
+h2{
+  font-size: 30pt;
+  background-color: #68c4af;
+}
+
+p{
+  font-size: 20pt;
+  line-height: 25pt
+}
+
+.verbal {
+  width: 50%;
+  float: left;
+  background-color: #b8dbd3;
+  text-align: center;
+  font-size: 45pt;
+  font-family: Crafty Girls;
+  text-shadow: 2px 2px 8px #f7e7b4;
+  border-left: solid 5pt #96ead7;
+  line-height: 55pt;
+}
+
+.subject-card img{
+  width: 77.5%
+}
+
+.flow-chart{
+display: block;
+  width: 60%;
+  background-color:#96ead7;
+  vertical-align:top;
+  border: solid 4pt;
+  text-align: center;
+  margin: auto auto;
+  margin-top: 0pt;
+}
+
+.flow-chart img{
+  margin-top: 10pt;
+}
+
+h4{
+width: 10%;
+text-align: left;
+background-color: #b8dbd3;
+font-size: 10pt;
+display: block;
+float: right;
+padding: 5pt;
+text-align: center;
+line-height: 20pt;
+margin-right: 4%;
+margin-top: 2%;
+ border-left: solid 8pt #96ead7;
+}
